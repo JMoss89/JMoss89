@@ -7,4 +7,4 @@
 - 👩🏻‍💻 Skills: UiPath, JavaScript, Express.js, React.js, SQL, Sequelize, Test Driven Development: Mocha & Jest, CSS, HTML, Node.js
 - 📫 How to reach me: 
   - 💻 [LinkedIn](https://www.linkedin.com/in/july-moss-0a68ab8b/) 
-  - 📬 [Email](july.x.moss@gmail.com)
+  - 📬 [Email] ➡️ july.x.moss@gmail.com
